@@ -18,7 +18,7 @@
           d) Goerli Test Network
               etc.
   ### Resources
-   1. Coursera : https://www.coursera.org/learn/blockchain-foundations-and-use-cases
+   1. Coursera : https://www.coursera.org/search?query=solidity
    2. Udemy : https://www.udemy.com/courses/search/?src=ukw&q=Blockchain
         
           
